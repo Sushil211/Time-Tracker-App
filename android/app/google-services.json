@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "14675717468",
+    "project_id": "time-tracker-bede2",
+    "storage_bucket": "time-tracker-bede2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14675717468:android:a51600a7019746a24ba599",
+        "android_client_info": {
+          "package_name": "com.example.time_tracker_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14675717468-elf86fonc9k0fgfn8ab2go6942505lvs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.time_tracker_app",
+            "certificate_hash": "b059248d71e1e2ac0f3aa835bf11d2886127b6f5"
+          }
+        },
+        {
+          "client_id": "14675717468-43hibr9s1bo142du19evjsfr4eh5d88r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCINogv_zTGTa8nJXIwE95OZOMtUX9bCeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14675717468-43hibr9s1bo142du19evjsfr4eh5d88r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
